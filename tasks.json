@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Buy groceries",
+      "status": "todo",
+      "createdAt": "2024-10-16T12:00:00.000Z",
+      "updatedAt": "2024-10-16T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Read Nextjs Documentation",
+      "status": "done",
+      "createdAt": "2024-10-16T03:09:13.947Z",
+      "updatedAt": "2024-10-19T03:30:25.605Z"
+    },
+    {
+      "id": 3,
+      "description": "Buy groceries",
+      "status": "todo",
+      "createdAt": "2024-10-19T03:27:01.665Z",
+      "updatedAt": "2024-10-19T03:27:01.675Z"
+    }
+  ]
+}

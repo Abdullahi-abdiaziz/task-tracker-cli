@@ -1,3 +1,4 @@
+
 # Task Tracker CLI
 
 A simple command-line interface (CLI) application for managing tasks. You can add, update, delete, and list tasks, as well as track their status. Tasks are stored in a local `tasks.json` file.
@@ -158,3 +159,5 @@ The tasks are stored locally in a `tasks.json` file in the same directory as the
 Contributions are welcome! Feel free to open an issue or submit a pull request on GitHub.
 
 ## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
