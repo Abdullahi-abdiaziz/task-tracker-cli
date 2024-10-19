@@ -26,7 +26,7 @@ A simple command-line interface (CLI) application for managing tasks. You can ad
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/task-tracker-cli.git
+   git clone https://github.com/abdullahi-abdiaziz/task-tracker-cli.git
    ```
 
 2. Navigate to the project directory:
