@@ -12,6 +12,9 @@ A simple command-line interface (CLI) application for managing tasks. You can ad
 - List tasks, filtered by status (e.g., `todo`, `in-progress`, `done`).
 - Tasks are persisted locally in a JSON file.
 
+### Project URL
+[Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
+
 ## Installation
 
 ### Prerequisites
